@@ -5,7 +5,7 @@ This guide will assist you in setting up and running the application using Docke
 
 ## Prerequisites
 
-Ensure you have Docker Desktop installed..
+Ensure you have Docker Desktop installed.
 
 ## Configuration
 
